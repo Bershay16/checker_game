@@ -43,15 +43,13 @@ The AI logic is implemented using a **depth-limited minimax algorithm**, optimiz
 
 ---
 
-## 📸 Screenshots
+<h2>📸 Screenshots</h2>
 
-<!-- Add your own images or delete this section -->
-![screenshots](screenshots/HOME.jpg)
-![screenshots](screenshots/ABOUT.jpg)
-![screenshots](screenshots/How_To_Play.jpg)
-![screenshots](screenshots/GAME.jpg)
-![screenshots](screenshots/VICTORY.jpg)
-
+<img src="screenshots/HOME.jpg" width="300"/>
+<img src="screenshots/ABOUT.jpg" width="300"/>
+<img src="screenshots/How_To_Play.jpg" width="300"/>
+<img src="screenshots/GAME.jpg" width="300"/>
+<img src="screenshots/VICTORY.jpg" width="300"/>
 ---
 
 ## 🚀 Getting Started
