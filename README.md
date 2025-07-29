@@ -45,11 +45,21 @@ The AI logic is implemented using a **depth-limited minimax algorithm**, optimiz
 
 <h2>📸 Screenshots</h2>
 
-<img src="screenshots/HOME.jpg" width="300"/>
-<img src="screenshots/ABOUT.jpg" width="300"/>
-<img src="screenshots/How_To_Play.jpg" width="300"/>
-<img src="screenshots/GAME.jpg" width="300"/>
-<img src="screenshots/VICTORY.jpg" width="300"/>
+<!-- First row: 3 images -->
+<div style="display: flex; justify-content: space-between; gap: 16px;">
+  <img src="screenshots/HOME.jpg" alt="Home" width="250">
+  <img src="screenshots/ABOUT.jpg" alt="About" width="250">
+  <img src="screenshots/How_To_Play.jpg" alt="How To Play" width="250">
+</div>
+
+<br/>
+
+<!-- Second row: 2 images centered -->
+<div style="display: flex; justify-content: center; gap: 32px; margin-top: 20px;">
+  <img src="screenshots/GAME.jpg" alt="Game" width="250">
+  <img src="screenshots/VICTORY.jpg" alt="Victory" width="250">
+</div>
+
 ---
 
 ## 🚀 Getting Started
